@@ -4,7 +4,7 @@ Folder ini berisi artefak build produksi Blastprompt Studio yang diserve via [js
 
 | File | Fungsi |
 | --- | --- |
-| `bundle.js` | Aplikasi React (single bundle, React di-load terpisah dari CDN) |
+| `bundle.js` | Aplikasi React single-bundle, termasuk React dan ReactDOM |
 | `body.html` | Markup HTML body untuk Canvas shell (`<div id="root">`) |
 | `styles.css` | CSS hasil kompilasi Tailwind |
 
